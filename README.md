@@ -8,7 +8,9 @@ API - https://rapidapi.com/googlecloud/api/google-translate1/
 Özellikler
 
 Metinleri kolayca farklı dillere çevirin.
+
 Metinin dilini otomatik olarak algılama.
+
 Desteklenen diller arasında gezinme imkanı.
 
 Uygulama Ekran Fotoğrafları
